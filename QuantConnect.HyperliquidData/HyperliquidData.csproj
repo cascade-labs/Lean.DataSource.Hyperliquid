@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="../../Lean/Common/QuantConnect.csproj" />
     <ProjectReference Include="../../Lean/Engine/QuantConnect.Lean.Engine.csproj" />
+    <ProjectReference Include="../../CascadeStorage/QuantConnect.CascadeStorage/QuantConnect.CascadeStorage.csproj" />
   </ItemGroup>
 
   <ItemGroup>
